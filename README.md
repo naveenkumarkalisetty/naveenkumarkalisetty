@@ -29,7 +29,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naveenkumarkalisetty&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=ffffff&icon_color=58A6FF" alt="Naveen's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveenkumarkalisetty&theme=transparent&hide_border=true&title_color=58A6FF&text_color=ffffff&icon_color=58A6FF" alt="Naveen's GitHub Streak" width="48%" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveenkumarkalisetty&theme=transparent&hide_border=true&title_color=58A6FF&text_color=ffffff&icon_color=58A6FF" alt="Naveen's GitHub Streak" width="48%" /> -->
 </p>
 
 
