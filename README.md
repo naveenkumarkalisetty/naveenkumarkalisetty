@@ -35,7 +35,12 @@ Here are some ideas to get you started:
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,cpp,python,azure,git,linux" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,supabase,firebase,java,cpp,python,docker,azure,git,linux,postman,opencv" alt="Naveen's Tech Stack" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat&logo=clerk&logoColor=white" alt="Clerk" />
+  <img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=flat&logo=HuggingFace&logoColor=black" alt="Hugging Face" />
 </p>
 
 ### 📊 GitHub Stats
