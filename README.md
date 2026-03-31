@@ -32,9 +32,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveenkumarkalisetty&theme=transparent&hide_border=true&title_color=58A6FF&text_color=ffffff&icon_color=58A6FF" alt="Naveen's GitHub Streak" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkumarkalisetty&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=ffffff" alt="Top Languages" />
-</p>
 
 ---
 
