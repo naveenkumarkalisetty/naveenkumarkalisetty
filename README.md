@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Naveen! 👋</h1>
-<h3 align="center">Full-Stack Developer | Mobile App Security | Agentic AI Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | React Native Developer | Agentic AI </h3>
 
 <p align="center">
   <a href="https://github.com/naveenkumarkalisetty">
