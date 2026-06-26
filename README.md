@@ -58,7 +58,7 @@ Seamless shopping experience for plant buyers
 ###  Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,supabase,firebase,java,kotlin,cpp,python,docker,azure,git,linux,postman,opencv,cmake, langchain" alt="Naveen's Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,supabase,firebase,java,kotlin,cpp,python,docker,azure,git,linux,postman,opencv,cmake,androidstudio,fastapi,git,ts" alt="Naveen's Tech Stack" />
 </p>
 
 <p align="left">
